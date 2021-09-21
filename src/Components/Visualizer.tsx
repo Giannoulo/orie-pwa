@@ -1,6 +1,7 @@
 import React, {useEffect, useState} from "react";
+import Canvas from "./Canvas";
 
-type orientationObject = {
+type OrientationObject = {
   absolute: boolean;
   alpha: number | null;
   beta: number | null;
@@ -8,7 +9,7 @@ type orientationObject = {
 };
 
 const Visualizer = (): JSX.Element => {
-  const [orientation, setOrientation] = useState<orientationObject>();
+  const [orientation, setOrientation] = useState<OrientationObject | null>(null);
 
   const handleOrientation = (event: DeviceOrientationEvent): void => {
     setOrientation({
@@ -26,7 +27,11 @@ const Visualizer = (): JSX.Element => {
     };
   }, []);
 
-  return <div>{orientation}</div>;
+  return (
+    <div id="visualiser-div">
+      <Canvas orientation={orientation} />
+    </div>
+  );
 };
 
 export default Visualizer;
