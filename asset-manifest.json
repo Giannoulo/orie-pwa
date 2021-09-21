@@ -1,25 +1,24 @@
 {
   "files": {
-    "main.css": "/orie-pwa/static/css/main.36437695.chunk.css",
-    "main.js": "/orie-pwa/static/js/main.06303437.chunk.js",
-    "main.js.map": "/orie-pwa/static/js/main.06303437.chunk.js.map",
-    "runtime-main.js": "/orie-pwa/static/js/runtime-main.23ac400d.js",
-    "runtime-main.js.map": "/orie-pwa/static/js/runtime-main.23ac400d.js.map",
-    "static/js/2.d09d25ff.chunk.js": "/orie-pwa/static/js/2.d09d25ff.chunk.js",
-    "static/js/2.d09d25ff.chunk.js.map": "/orie-pwa/static/js/2.d09d25ff.chunk.js.map",
-    "static/js/3.f03c8e9b.chunk.js": "/orie-pwa/static/js/3.f03c8e9b.chunk.js",
-    "static/js/3.f03c8e9b.chunk.js.map": "/orie-pwa/static/js/3.f03c8e9b.chunk.js.map",
+    "main.css": "/orie-pwa/static/css/main.2c0a0ac3.chunk.css",
+    "main.js": "/orie-pwa/static/js/main.449eb33a.chunk.js",
+    "main.js.map": "/orie-pwa/static/js/main.449eb33a.chunk.js.map",
+    "runtime-main.js": "/orie-pwa/static/js/runtime-main.127a51de.js",
+    "runtime-main.js.map": "/orie-pwa/static/js/runtime-main.127a51de.js.map",
+    "static/js/2.b257304d.chunk.js": "/orie-pwa/static/js/2.b257304d.chunk.js",
+    "static/js/2.b257304d.chunk.js.map": "/orie-pwa/static/js/2.b257304d.chunk.js.map",
+    "static/js/3.eb1ff54f.chunk.js": "/orie-pwa/static/js/3.eb1ff54f.chunk.js",
+    "static/js/3.eb1ff54f.chunk.js.map": "/orie-pwa/static/js/3.eb1ff54f.chunk.js.map",
     "index.html": "/orie-pwa/index.html",
     "service-worker.js": "/orie-pwa/service-worker.js",
     "service-worker.js.map": "/orie-pwa/service-worker.js.map",
-    "static/css/main.36437695.chunk.css.map": "/orie-pwa/static/css/main.36437695.chunk.css.map",
-    "static/js/2.d09d25ff.chunk.js.LICENSE.txt": "/orie-pwa/static/js/2.d09d25ff.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/orie-pwa/static/media/logo.103b5fa1.svg"
+    "static/css/main.2c0a0ac3.chunk.css.map": "/orie-pwa/static/css/main.2c0a0ac3.chunk.css.map",
+    "static/js/2.b257304d.chunk.js.LICENSE.txt": "/orie-pwa/static/js/2.b257304d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.23ac400d.js",
-    "static/js/2.d09d25ff.chunk.js",
-    "static/css/main.36437695.chunk.css",
-    "static/js/main.06303437.chunk.js"
+    "static/js/runtime-main.127a51de.js",
+    "static/js/2.b257304d.chunk.js",
+    "static/css/main.2c0a0ac3.chunk.css",
+    "static/js/main.449eb33a.chunk.js"
   ]
 }
