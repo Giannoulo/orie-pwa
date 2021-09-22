@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/orie-pwa/static/css/main.50f6e0ca.chunk.css",
-    "main.js": "/orie-pwa/static/js/main.34dd7cce.chunk.js",
-    "main.js.map": "/orie-pwa/static/js/main.34dd7cce.chunk.js.map",
+    "main.js": "/orie-pwa/static/js/main.8d816999.chunk.js",
+    "main.js.map": "/orie-pwa/static/js/main.8d816999.chunk.js.map",
     "runtime-main.js": "/orie-pwa/static/js/runtime-main.127a51de.js",
     "runtime-main.js.map": "/orie-pwa/static/js/runtime-main.127a51de.js.map",
     "static/js/2.b257304d.chunk.js": "/orie-pwa/static/js/2.b257304d.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.127a51de.js",
     "static/js/2.b257304d.chunk.js",
     "static/css/main.50f6e0ca.chunk.css",
-    "static/js/main.34dd7cce.chunk.js"
+    "static/js/main.8d816999.chunk.js"
   ]
 }
