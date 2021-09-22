@@ -1,0 +1,2 @@
+#header-row{position:absolute;top:0;height:35px;font-size:35px;color:#ff00f2;-webkit-filter:drop-shadow(1px 1px 2px #000);filter:drop-shadow(1px 1px 2px black);font-family:"Courier New",Courier,monospace;width:100%}#visualiser-div{flex:1 1;width:100%}canvas{height:100%;width:100%}*{box-sizing:border-box}#root,body,html{height:100%}#root,body{margin:0}.App{text-align:center;height:100%;flex-direction:column}.App,.container{display:flex;justify-content:center;align-items:center}
+/*# sourceMappingURL=main.eb28b09a.chunk.css.map */

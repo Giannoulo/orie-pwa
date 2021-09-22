@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/orie-pwa/static/css/main.50f6e0ca.chunk.css",
+    "main.css": "/orie-pwa/static/css/main.eb28b09a.chunk.css",
     "main.js": "/orie-pwa/static/js/main.8d816999.chunk.js",
     "main.js.map": "/orie-pwa/static/js/main.8d816999.chunk.js.map",
     "runtime-main.js": "/orie-pwa/static/js/runtime-main.127a51de.js",
@@ -12,13 +12,13 @@
     "index.html": "/orie-pwa/index.html",
     "service-worker.js": "/orie-pwa/service-worker.js",
     "service-worker.js.map": "/orie-pwa/service-worker.js.map",
-    "static/css/main.50f6e0ca.chunk.css.map": "/orie-pwa/static/css/main.50f6e0ca.chunk.css.map",
+    "static/css/main.eb28b09a.chunk.css.map": "/orie-pwa/static/css/main.eb28b09a.chunk.css.map",
     "static/js/2.b257304d.chunk.js.LICENSE.txt": "/orie-pwa/static/js/2.b257304d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.127a51de.js",
     "static/js/2.b257304d.chunk.js",
-    "static/css/main.50f6e0ca.chunk.css",
+    "static/css/main.eb28b09a.chunk.css",
     "static/js/main.8d816999.chunk.js"
   ]
 }
