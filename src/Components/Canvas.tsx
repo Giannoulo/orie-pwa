@@ -15,16 +15,35 @@ const normalizeOrientationValues = (orieValue: number, typeOfValue: string): num
   let b: number;
   switch (typeOfValue) {
     case "alpha":
-      a = 255 / 360;
-      b = 255 - a * 360;
+      // a = 255 / 360;
+      // b = 255 - a * 360;
+      a = 255 / 180;
+      b = 255 - a * 180;
+      if (orieValue > 180) {
+        orieValue = 180;
+      }
       break;
     case "beta":
-      a = 255 / 360;
-      b = 255 - a * 180;
-      break;
-    default:
+      // a = 255 / 360;
+      // b = 255 - a * 180;
       a = 255 / 180;
       b = 255 - a * 90;
+      if (orieValue > 90) {
+        orieValue = 90;
+      } else if (orieValue < -90) {
+        orieValue = -90;
+      }
+      break;
+    default:
+      // a = 255 / 180;
+      // b = 255 - a * 90;
+      a = 255 / 90;
+      b = 255 - a * 45;
+      if (orieValue > 45) {
+        orieValue = 45;
+      } else if (orieValue < -45) {
+        orieValue = -45;
+      }
       break;
   }
   return a * orieValue + b;
